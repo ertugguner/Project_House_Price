@@ -18,7 +18,7 @@ The data contains the following columns :
 
 Python Version : 3.7
 
-Packages: Pandas, Numpy, Matplotlib, Sklearn
+Packages: Pandas, Numpy, Matplotlib, Sklearn, Seaborn
 
 ![](/images/fig3.png)
  
