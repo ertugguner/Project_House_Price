@@ -1,9 +1,6 @@
 # Project_House_Price
 House Price Estimator
 
-# Project_Bulldozer_Price
-Predicting the sale price of the bulldozers
-
 # House Price Estimator(Linear Regression): Project Overview
 - Creating a Linear Regression model which predicting the price of the houses in USA.
 - I completed this project with what I learned from this course:
